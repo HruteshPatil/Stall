@@ -1,8 +1,0 @@
-INDEX VERSION 1.4+C:\Hrpatil\Projects\Html&Css\Stall\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3986562413.index
-210635811.index
-954770338.index
-2445141410.index
-480302648.index
-683455230.index
-599649405.index
